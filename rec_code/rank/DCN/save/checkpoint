@@ -1,0 +1,2 @@
+model_checkpoint_path: "dcn_weights.epoch_0005.val_loss_0.5118.ckpt"
+all_model_checkpoint_paths: "dcn_weights.epoch_0005.val_loss_0.5118.ckpt"
